@@ -35,10 +35,10 @@ My friend and I completed this as a two-person team and met periodically with th
 ### Restaurant Overlapping Labor Hours
 ![Restaurant Labor Hours](https://user-images.githubusercontent.com/71853253/195934687-ed25d406-1a7f-46f0-bc08-54971c9a0394.JPG)
 
-### Restaurant Campus Clubs
+### Top Campus Clubs
 ![Restaurant Campus Clubs](https://user-images.githubusercontent.com/71853253/195934743-ee211843-b712-444f-b197-1b841e5ced62.JPG)
 
-### Restaurant Franchise Groups
+### Franchise Group Contacts
 ![Restaurant Franchise Targets](https://user-images.githubusercontent.com/71853253/195934792-785bbe87-05f6-453d-810b-b1c71b1677a3.JPG)
 
 
